@@ -1,5 +1,5 @@
 ### USAGE
-1. Download the frieren file
+1. Download the frieren folder and its respective files
 2. Copy the file into C:\Program Files (x86)\Steam\steamapps\common\Noita\mods 
 3. Launch the game menu and toggle the frieren mod under mods tab
 4. Play :)
