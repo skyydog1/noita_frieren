@@ -1,0 +1,41 @@
+<Entity name="bangC">
+   
+	    <VerletPhysicsComponent
+	    	num_points="2"
+	    	stiffness="0.95"
+	    	resting_distance="1" 
+	    	pixelate_sprite_transforms="0"
+	    	simulate_wind="1"
+	    	constrain_stretching="1"
+			velocity_dampening="0.85"
+			collide_with_cells="1"
+			mass_min="0.95"
+			mass_max="0.95"	
+			>
+	    </VerletPhysicsComponent>
+	
+  <SpriteComponent 
+	_tags="bangC_sprite_1"
+    image_file="mods/frieren/files/skin/entities/verlet_chains/frieren_bangs/bangC_parts/bangC_a_1.xml" 
+	alpha="1"
+    offset_x="0"
+    offset_y="0.5"
+    update_transform="0"
+    update_transform_rotation="0" 
+	z_index="0.6001"
+	>
+  </SpriteComponent>
+
+    <InheritTransformComponent
+        parent_hotspot_tag="bangs_root" >
+		<Transform 
+		position.x="0.5"
+		position.y="-1.5" 
+				>
+		</Transform>
+    </InheritTransformComponent> 
+
+    <SpriteStainsComponent>
+	</SpriteStainsComponent>	
+  
+</Entity>
