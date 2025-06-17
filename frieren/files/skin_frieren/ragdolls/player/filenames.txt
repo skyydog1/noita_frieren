@@ -1,8 +1,0 @@
-mods/frieren/files/skin_frieren/ragdolls/player/torso.png
-mods/frieren/files/skin_frieren/ragdolls/player/right_thigh.png
-mods/frieren/files/skin_frieren/ragdolls/player/right_arm.png
-mods/frieren/files/skin_frieren/ragdolls/player/right_hand.png
-mods/frieren/files/skin_frieren/ragdolls/player/left_thigh.png
-mods/frieren/files/skin_frieren/ragdolls/player/left_arm.png
-mods/frieren/files/skin_frieren/ragdolls/player/left_hand.png
-mods/frieren/files/skin_frieren/ragdolls/player/head.png
